@@ -1,0 +1,14 @@
+{
+    "name": "hrtime-test",
+    "version": "1.0.0",
+    "description": "This repo tests the nanosecond precision of node hrtime inside an infinite while loop",
+    "scripts": {
+        "start": "node src"
+    },
+    "author": "Stas Darevskiy",
+    "license": "MIT",
+    "private": true,
+    "prettier": {
+        "tabWidth": 4
+    }
+}
