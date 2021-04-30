@@ -4,13 +4,9 @@ This repo tests the nanosecond precision of [`process.hrtime()`](https://nodejs.
 There is a noticeable delta (~0.2 ms) per loop caused by calculations and logging to the console. <br>
 The delay depends on your CPU speed, the example below was done on a Ryzen 9 3900X. <br>
 
-<br>
-
 # Example
 
 <img src="https://i.imgur.com/A9Dw03t.gif" alt="Example" width="400" style="border-radius: 5px"/><br>
-
-<br>
 
 # Usage
 
